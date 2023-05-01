@@ -1,2 +1,2 @@
 # Retorica-musical
-Apuntes sobre figuras retóricas musicales de la clase de análisis musical
+Listado de figuras retóricas musicales dadas en la clase de análisis musical
